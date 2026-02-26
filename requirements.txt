@@ -1,0 +1,24 @@
+# Core CrewAI - keep at this version
+crewai==0.130.0
+crewai-tools==0.47.1
+
+# Web framework
+fastapi==0.110.3
+uvicorn==0.29.0
+python-multipart==0.0.9
+
+# LLM providers
+openai==1.30.5
+
+# Document processing
+langchain-community==0.0.38
+langchain-core==0.1.52
+pypdf==4.2.0
+
+# Utilities
+python-dotenv==1.0.1
+pydantic==1.10.13
+
+# Optional: for bonus queue worker model
+# celery==5.4.0
+# redis==5.0.4
